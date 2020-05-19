@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CE+sql7Dsmg42I9AhI5jDXc3/Skrh5tKoOeqPDVZYjbFw4fTsru+TOXd4UnGetl7lQi/gHUAp5iUClLRY/Efjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ZaawansowaneProjOb\\ZaawansowaneProjOb\\ZaawansowaneProjOb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\documentformat.openxml\\2.10.1\\documentformat.openxml.2.10.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
